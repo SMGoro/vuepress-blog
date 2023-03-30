@@ -1,6 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
+all: true
+heroText: 愿你保持初心和善良,笑里尽是温暖与坦荡。
 tagline: A simple and beautiful vuepress blog theme.
 # heroImage: /hero.png
 # heroImageStyle: {
@@ -12,7 +13,7 @@ tagline: A simple and beautiful vuepress blog theme.
 #   borderRadius: '1rem',
 # }
 bgImageStyle: {
-  height: '450px'
+  height: '100vh'
 }
 isShowTitleInHome: false
 actionText: Guide
